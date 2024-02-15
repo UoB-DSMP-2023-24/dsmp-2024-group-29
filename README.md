@@ -13,7 +13,7 @@ Group Members:
 
 Jingzhe Gao,
 
-Zhenyu Zhao,
+Taiyu Zhao,
 
 Bojing Hou,
 
