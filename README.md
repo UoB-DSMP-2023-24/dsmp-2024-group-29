@@ -2,8 +2,14 @@
 
 ## Please edit the fields below with your information
 Group Number: 
+29
 
 Problem Assigned: 
+Problem_C Use of Retail Banking Transactional Data
 
 Group Members:
+Jingzhe Gao
+Zhenyu Zhao
+Bojing Hou
+Xiaotong Jin
 
